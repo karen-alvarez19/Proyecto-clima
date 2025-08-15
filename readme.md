@@ -3,8 +3,6 @@ Clima Minimalista
 Aplicación web sencilla y minimalista que permite consultar el clima actual de cualquier ciudad del mundo utilizando la API de **OpenWeatherMap**.  
 El proyecto está desarrollado con **HTML, CSS y JavaScript**.
 
-<img width="1320" height="819" alt="Captura de pantalla 2025-08-14 185344" src="https://github.com/user-attachments/assets/0cb9cd30-285e-46c3-b308-2ef3fc304033" />
-
 Descripción del proyecto
 Este proyecto muestra información básica del clima de una ciudad ingresada por el usuario.  
 Características principales:
@@ -32,4 +30,12 @@ Sigue estos pasos para correr el proyecto en tu equipo:
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
    cd tu-repositorio
+ <img width="1320" height="819" alt="Captura de pantalla 2025-08-14 185344" src="https://github.com/user-attachments/assets/c7ece0c3-a143-4c97-bdf5-e1595313eb02" />
+ 
+<img width="1325" height="831" alt="Captura de pantalla 2025-08-14 185803" src="https://github.com/user-attachments/assets/cdb94fbe-4077-4a16-a372-3c714a032e80" />
+
+<img width="1072" height="807" alt="Captura de pantalla 2025-08-14 185831" src="https://github.com/user-attachments/assets/e12c553b-a58b-476a-88ee-12e5fa33a7ac" />
+
+<img width="1885" height="985" alt="Captura de pantalla 2025-08-14 190106" src="https://github.com/user-attachments/assets/951024db-569a-4cf1-aa54-bc9dad8da8a6" />
